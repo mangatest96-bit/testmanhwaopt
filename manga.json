@@ -1,0 +1,21 @@
+[
+  {
+    "id": "against-the-gods",
+    "name_ar": "Against The Gods",
+    "name_en": "Against The Gods",
+    "cover": "https://huggingface.co/datasets/yassirah/manga/resolve/main/Against%20The%20Gods/cover.jpg",
+    "base_url": "https://huggingface.co/datasets/yassirah/manga/resolve/main/Against%20The%20Gods",
+    "chapters": [
+      {
+        "number": 1,
+        "folder": "الفصل 771",
+        "pages": 5
+      },
+      {
+        "number": 2,
+        "folder": "الفصل 772",
+        "pages": 6
+      }
+    ]
+  }
+]
