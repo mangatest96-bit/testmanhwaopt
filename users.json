@@ -1,3 +1,10 @@
 {
-  "users": []
+  "users": [
+    {
+      "id": "1",
+      "name": "Yassir Test",
+      "email": "test@gmail.com",
+      "allowed_manga": ["manga1"]
+    }
+  ]
 }
